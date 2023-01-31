@@ -1,0 +1,18 @@
+{
+  "shipping": {
+    "show": true,
+    "text": "We deliver to all Countries"
+  },
+  "installments": {
+    "show": true,
+    "text": "Installment without interest"
+  },
+  "exchange": {
+    "show": true,
+    "text": "Didn't like it? The first exchange is free"
+  },
+  "promo": {
+    "show": true,
+    "text": "Different promotions throughout the year!"
+  }
+}
